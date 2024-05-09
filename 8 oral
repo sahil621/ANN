@@ -1,0 +1,18 @@
+----Adaptive Resonance Theory (ART)----
+The ART networks are known to solve the stability-plasticity dilemma i.e., 
+stability refers to their nature of memorizing the learning and plasticity refers to the fact that they are flexible to gain new information.
+
+---------Types of Adaptive Resonance Theory(ART) ---------
+ART1 – It is the simplest and the basic ART architecture. It is capable of clustering binary input values.
+ART2 – It is extension of ART1 that is capable of clustering continuous-valued input data.
+Fuzzy ART – It is the augmentation of fuzzy logic and ART.
+ARTMAP – It is a supervised form of ART learning where one ART learns based on the previous ART module. It is also known as predictive ART.
+FARTMAP – This is a supervised ART architecture with Fuzzy logic include
+
+------Advantage of Adaptive Resonance Theory (ART)------
+It exhibits stability and is not disturbed by a wide variety of inputs provided to its network.
+It can be integrated and used with various other techniques to give more good results.
+It can be used for various fields such as mobile robot control, face recognition, land cover classification, target recognition, medical diagnosis, signature verification, clustering web users, etc.
+It does not guarantee stability in forming clusters.
+
+Limitations of Adaptive Resonance Theory Some ART networks are inconsistent (like the Fuzzy ART and ART1) as they depend upon the order of training data,or upon the learning rate.
