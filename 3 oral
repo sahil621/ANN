@@ -1,0 +1,14 @@
+-------------Perceptron------
+Perceptron is one of the simplest Artificial neural network architectures.
+--------Types of Perceptron--------
+single-Layer Perceptron: This type of perceptron is limited to learning linearly separable patterns. 
+effective for tasks where the data can be divided into distinct categories through a straight line.
+Multilayer Perceptron: Multilayer perceptrons possess enhanced processing capabilities as they consist of two or more layers,
+adept at handling more complex patterns and relationships within the data.
+--------Activation Function-------
+An Activation Function decides whether a neuron should be activated or not.
+This means that it will decide whether the neuron's input to the network is important or not in the process of prediction using simpler mathematical operations.
+-------------ascii------------
+ASCII, a standard data-encoding format for electronic communication between computers. 
+ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers.
+In full: American Standard Code for Information Interchange
