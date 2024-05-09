@@ -1,0 +1,5 @@
+--------------Hopfield Networks---------
+Hopfield Networks are URNNs that consist of a single layer of binary valued neurons that are symmetrically connected to one another (i.e., between two neurons the weights of the connections are same in either direction).
+
+----------asynchronous update rule-----
+The asynchronous update rule performs this update only for one component of ξ and then selects the next component for update.
