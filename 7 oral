@@ -1,0 +1,18 @@
+----------Back Propagation Network------
+Backpropagation is an algorithm that backpropagates the errors from the output nodes to the input nodes. 
+Therefore, it is simply referred to as the backward propagation of errors. 
+It uses in the vast applications of neural networks in data mining like Character recognition, Signature verification, etc.
+
+---------Xor--------
+
+The XOR function is a binary function that takes two binary inputs and returns a binary output. 
+The output is true if the number of true inputs is odd, and false otherwise.
+In other words, it returns true if exactly one of the inputs is true, and false otherwise.
+
+---------sigmoid-----
+The sigmoid is a mathematical function that maps input values to a value between 0 and 1, making it useful for binary classification and logistic regression problems.
+
+--------Forward propogation----------
+Forward propagation is the way data moves from left (input layer) to right (output layer) in the neural network.
+A neural network can be understood by a collection of connected input/output nodes. 
+The accuracy of a node is expressed as a loss function or error rate.
