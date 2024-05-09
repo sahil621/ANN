@@ -1,0 +1,10 @@
+---------------Bidirectional Associative Memory (BAM)------
+it is a supervised learning model in Artificial Neural Network.
+This is hetero-associative memory, for an input pattern, it returns another pattern which is potentially of a different size.
+similar to the human brain.
+The main objective to introduce such a network model is to store hetero-associative pattern pairs.
+It uses a chain of mental associations to recover a lost memory like associations of faces with names,
+in exam questions with answers, etc. In such memory associations for one type of object with another
+------------Limitations of BAM-----
+Storage capacity of the BAM: In the BAM, stored number of associations should not be exceeded the number of neurons in the smaller layer.
+Incorrect convergence: Always the closest association may not be produced by BAM.
