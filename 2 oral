@@ -1,0 +1,9 @@
+---McCulloch-Pitts Model of Neuron------
+It was the earliest ANN model, has only two types of inputs — Excitatory and Inhibitory.
+The excitatory inputs have weights of positive magnitude and the inhibitory weights have weights of negative magnitude.
+The inputs of the McCulloch-Pitts neuron could be either 0 or 1. 
+It has a threshold function as an activation function.
+---------Mp neuron-------
+The MP neuron takes binary input and gives binary output. 
+If the input data is not binary it can be compacted to binary before it can be feeded to the model.
+The classification is also binary which is 0 or 1.
