@@ -1,0 +1,3 @@
+-------------backpropagation feed-forward neural network---------
+The backpropagation algorithm performs learning on a multilayer feed-forward neural network. It iteratively learns a set of weights for prediction of the class label of tuples. 
+A multilayer feed-forward neural network consists of an input layer, one or more hidden layers, and an output layer.
