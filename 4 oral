@@ -1,0 +1,8 @@
+---------------perceptron Learning Rule----------
+Perceptron Learning Rule states that the algorithm would automatically learn the optimal weight coefficients. 
+Single layer Perceptrons can learn only linearly separable patterns
+-----------decision region-----------
+ a specific region within the input space which corresponds to a unique output class.
+ ----------blob----------
+ BLOB is generally a collection of large complex data in the Database. 
+ The make_blobs() function sometimes can be used to generate blobs of points with a Gaussian distribution.
